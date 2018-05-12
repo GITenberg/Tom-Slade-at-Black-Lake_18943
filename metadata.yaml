@@ -1,0 +1,54 @@
+_repo: Tom-Slade-at-Black-Lake_18943
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hastings, Howard L. (Howard Livingston)
+    alias: Hastings, H. L. (Howard Livingston)
+    birthdate: 1887
+    gutenberg_agent_id: '7682'
+    url: http://www.gutenberg.org/2009/agents/7682
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Fitzhugh, Percy K.
+    - Fitzhugh, P. K. (Percy Keese)
+    birthdate: 1876
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: Tom Slade, bending over the office table, scrutinized the big map of
+  Temple Camp. It was the first time he had really looked at it since his return from
+  France, and it made him homesick to see, even in its cold outlines, the familiar
+  things and scenes which he had so loved as a scout. The hill trail was nothing but
+  a dotted line, but Tom knew it for more than that, for it was along its winding
+  way into the dark recesses of the mountains that he had qualified for the pathfinder's
+  badge. Black Lake was just an irregular circle, but in his mind's eye he saw there
+  the moonlight glinting up the water, and canoes gliding silently, and heard the
+  merry voices of scouts diving from the springboard at its edge. He liked this map
+  better than maps of billets and trenches, and to him the hill trail was more suggestive
+  of adventure than the Hindenburg Line. He had been very close to the Hindenburg
+  Line and it had meant no more to him than the equator. He had found the war to be
+  like a three-ringed circus - it was too big. Temple Camp was about the right size.
+  Tom reached for a slip of paper and laying it upon the map just where the trail
+  went over the hilltop and off the camp territory altogether, jotted down the numbers
+  of three cabins which were indicated by little squares.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: Tom Slade at Black Lake
+url: http://www.gutenberg.org/ebooks/18943
